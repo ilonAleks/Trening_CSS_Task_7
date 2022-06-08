@@ -1,0 +1,23 @@
+body {
+	background-color: bisque;
+	/* фон */
+}
+
+.line {
+	margin: 60px auto;
+	/* отступ по горизонтали, по вертикали - авто */
+	text-indent: 20px;
+	/* красная строка */
+	border-left: 3px dotted blue;
+	/* линия слева бокса синие точки жирностью 3пкс*/
+	padding-left: 20px;
+	/* отступ слева от края бокса*/
+	width: 280px;
+	/* ширина бокса*/
+	font-family: sans-serif;
+	/* шрифт*/
+	text-align: justify;
+	/* текст растянут по ширине бокса*/
+	font-size: 18px;
+	/* размер текста*/
+}
